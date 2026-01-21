@@ -1,0 +1,17 @@
+import pandas as pd
+df = pd.read_csv("student_wrangle_dataset.csv")
+print(df)
+print("============head=========/n")
+print(df.head())
+print("============shape================/n")
+print(df.shape)
+print("==============tail===================/n")
+print(df.tail())
+print("=====================column=================/n")
+print(df.columns)
+print("===========describe=========/n")
+print(df.describe())
+print(df.isnull())
+print(df.dropna())
+print(df.fillna)
+
