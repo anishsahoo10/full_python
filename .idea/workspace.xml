@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="883485a3-2b54-4ee1-bfda-15300d3a0ddc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/numpy/slicing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/robospeaker/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robospeaker/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/robospeaker/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +99,7 @@
       <workItem from="1765471609004" duration="323000" />
       <workItem from="1765472012613" duration="624000" />
       <workItem from="1769007716139" duration="2759000" />
-      <workItem from="1769049216126" duration="5083000" />
+      <workItem from="1769049216126" duration="5388000" />
     </task>
     <servers />
   </component>
@@ -112,6 +110,6 @@
     <SUITE FILE_PATH="coverage/python_ggaahh$main.coverage" NAME="main Coverage Results" MODIFIED="1765470764376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/freaking_py$multi_D_array.coverage" NAME="multi_D_array Coverage Results" MODIFIED="1769008143956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numpy" />
     <SUITE FILE_PATH="coverage/freaking_py$slicing.coverage" NAME="slicing Coverage Results" MODIFIED="1769093169170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/numpy" />
-    <SUITE FILE_PATH="coverage/freaking_py$main.coverage" NAME="main Coverage Results" MODIFIED="1769095809741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/robospeaker" />
+    <SUITE FILE_PATH="coverage/freaking_py$main.coverage" NAME="main Coverage Results" MODIFIED="1769096124838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/robospeaker" />
   </component>
 </project>
