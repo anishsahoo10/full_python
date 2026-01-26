@@ -34,3 +34,4 @@ if aq == "yes":
     print(f"O3  : {air['o3']}")
     print(f"PM2.5: {air['pm2_5']}")
     print(f"PM10 : {air['pm10']}")
+
