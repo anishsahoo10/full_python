@@ -33,8 +33,8 @@ print("is space:",s.isspace())
 print("is title:",s.istitle())
 
 print("start and end")
-print("starts with A:,s.startswith('A'))")
-print("ends with n:,s.endswith('n'))")
+print("starts with A:", s.startswith('A'))
+print("ends with n:", s.endswith('n'))
 
 print("modification")
 print("replace a with @:",s.replace('a','@'))
