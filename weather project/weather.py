@@ -2,7 +2,6 @@ import requests
 
 city = input("Enter city name: ")
 aq = input("Want air quality? (yes/no): ").lower()
-
 url = f"http://api.weatherapi.com/v1/current.json?key=c0ffe050767c457495b154644262201&q={city}&aqi={aq}"
 
 response = requests.get(url)
@@ -23,7 +22,6 @@ print(f"Temperature: {temp_c} °C")
 print(f"Condition  : {condition}")
 print(f"Humidity   : {humidity}%")
 print(f"Wind Speed : {wind_kph} km/h")
-
 # Air quality (optional)
 if aq == "yes":
     air = data["current"]["air_quality"]
