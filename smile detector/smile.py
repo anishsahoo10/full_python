@@ -5,7 +5,7 @@ face_cascade = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
 smile_cascade = cv2.CascadeClassifier("haarcascade_smile.xml")
 
 if face_cascade.empty() or smile_cascade.empty():
-    print("❌ Error loading cascade files")
+    print(" Error loading cascade files")
     exit()
 
 cap = cv2.VideoCapture(0)
