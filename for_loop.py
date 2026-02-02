@@ -5,6 +5,7 @@ for i in range(20):
     for dic in dict1:
         print(dic)
 
+
         for j in range(5):
             for k in range(5):
                 print(j,k)
